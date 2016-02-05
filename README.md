@@ -49,7 +49,7 @@ q<sub>1</sub>  |   1  |(q<sub>2</sub>,0,R), (q<sub>2</sub>,1,R)
     puts conf.to_s
   end
 ```
-#### Output: four possible compuatations
+#### Output: four possible computations
  [q0]011 (1,0,r) => 0[q1]11 (2,0,r) => 00[q2]1
  
  [q0]011 (1,0,r) => 0[q1]11 (2,1,r) => 01[q2]1
